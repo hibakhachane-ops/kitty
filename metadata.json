@@ -1,0 +1,6 @@
+{
+  "name": "Kitty AI",
+  "description": "Un chat intelligent et adorable sur le thème rose, animé par l'intelligence artificielle Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
